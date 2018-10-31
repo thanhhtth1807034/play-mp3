@@ -116,421 +116,421 @@
 
 
               /*LAN III*/
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
 
 /*LAN IV */
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
 
                     /*LAN  V*/
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
 
 /*LAN VI*/
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
 
    /*LAN Vii*/
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
                 /*LAN VIII*/
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
 
-            /*LAN IX*/
-*{
-    font-family:Tahoma;
-    margin: 7px;
-}
-.song-item{
-    border:1px solid rgba(13,23,20,0.2);
-    border-radius: 10px;
-}
-.song-item:after {
-    content: '';
-    clear: both;
-    display: table;
-}
-.song-index {
-    float: left;
-    width: 5%;
-    font-size: 30px;
-    font-weight: bold;
-    text-align: center;
-    padding-top: 2%;
-    padding-left: 1%;
-}
-.song-thumbnail {
-    float: left;
-    width: 10%;
-}
-.song-thumbnail img {
-    width: 100%;
-    border-radius: 10px;
-}
-.song-infor {
-    padding-top: 1%;
-    float: left;
-    width: 20%;
-}
-.song-infor.song-name {
-    font-weight: bold;
-}
-.song-infor .song-singer {
-    font-weight: lighter;
-    color: rgba(0,0,23,0.47);
-}
-.song-control {
-    padding-top: 3%;
-    color: dodgerblue;
-    cursor: pointer;
-    text-decoration: underline;
-    float: left;
-    width: 10%;
-}
-.song-detail {
-    float: left;
-    width: 50%;
-    padding-top: 0.5%;
-    font-weight: bold;
-}
+            /*!*LAN IX*!*/
+/**{*/
+    /*font-family:Tahoma;*/
+    /*margin: 7px;*/
+/*}*/
+/*.song-item{*/
+    /*border:1px solid rgba(13,23,20,0.2);*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-item:after {*/
+    /*content: '';*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+/*.song-index {*/
+    /*float: left;*/
+    /*width: 5%;*/
+    /*font-size: 30px;*/
+    /*font-weight: bold;*/
+    /*text-align: center;*/
+    /*padding-top: 2%;*/
+    /*padding-left: 1%;*/
+/*}*/
+/*.song-thumbnail {*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-thumbnail img {*/
+    /*width: 100%;*/
+    /*border-radius: 10px;*/
+/*}*/
+/*.song-infor {*/
+    /*padding-top: 1%;*/
+    /*float: left;*/
+    /*width: 20%;*/
+/*}*/
+/*.song-infor.song-name {*/
+    /*font-weight: bold;*/
+/*}*/
+/*.song-infor .song-singer {*/
+    /*font-weight: lighter;*/
+    /*color: rgba(0,0,23,0.47);*/
+/*}*/
+/*.song-control {*/
+    /*padding-top: 3%;*/
+    /*color: dodgerblue;*/
+    /*cursor: pointer;*/
+    /*text-decoration: underline;*/
+    /*float: left;*/
+    /*width: 10%;*/
+/*}*/
+/*.song-detail {*/
+    /*float: left;*/
+    /*width: 50%;*/
+    /*padding-top: 0.5%;*/
+    /*font-weight: bold;*/
+/*}*/
 
 
 
@@ -590,4 +590,89 @@
     width: 50%;
     padding-top: 0.5%;
     font-weight: bold;
+}
+
+/** {*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+/*}*/
+.header {
+    height: 70px;
+    background:black;
+}
+.header .logo {
+    width: 30%;
+    display: inline;
+}
+.header .logo img {
+    float: left;
+    padding-top: 10px;
+}
+.header .box {
+    float: left;
+    border-radius: 10px;
+}
+.header .box input {
+    border-radius: 5px;
+    padding: 3px 10px;
+}
+.header #menu {
+    display: inline-block;
+    /*height: 220px;*/
+    width: auto;
+    /*background: #f2f2f2;*/
+}
+#menu ul {
+    list-style-type: none;
+    text-align: center;
+}
+#menu ul li {
+    display: inline-table;
+    position: relative;
+    width: 150px;
+}
+#menu ul li a {
+    text-decoration: none;
+    display: block;
+    color: dodgerblue;
+}
+#menu ul li a:hover {
+    color: dodgerblue;
+    opacity: 0.8;
+}
+#menu ul li > .item-menu {
+    display: none;
+    position: absolute;
+    background: black;
+}
+#menu ul li:hover .item-menu {
+    display: block;
+}
+.song-thumbnail img {
+    border-radius: 90px;
+    animation: animate 10s linear infinite;
+}
+@keyframes animate {
+    0%{
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(90deg);
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    75% {
+        transform: rotate(270deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.player audio {
+    display: block;
+    padding-top: 200px;
+}
+.clear{
+    clear: both;
 }

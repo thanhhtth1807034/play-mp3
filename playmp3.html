@@ -255,10 +255,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>Play with mp3</title>
     <link rel="stylesheet" href="playmp3.css">
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <div class="header">
+        <div class="logo">
+            <a href="/" title="Zing MP3 - Đỉnh cao âm nhạc" class="hide-text">
+                <img src="https://static-zmp3.zadn.vn/skins/zmp3-v5.1/images/logo.png" alt="Zing MP3 - Đỉnh cao âm nhạc">
+            </a>
+        </div>
+        <div class="box">
+            <input type="text" name="keyword" style="height: 30px; width: 300px;" placeholder="Search..." id="keyword" onkeypress="onchange(event)">
+            <button id="icon"><i class="fa fa-search"></i></button>
+        </div>
+
+        <div id="menu">
+            <ul>
+                <li><a href="#">Trang chu</a></li>
+                <li>
+                    <a href="#">#Zingchart</a>
+                    <ul class="item-menu">
+                        <li><a href="#">Bai hat</a></li>
+                        <li><a href="#">MV</a></li>
+                        <li><a href="#">Album</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Top 100</a>
+                    <ul class="item-menu">
+                        <li><a href="#">Viet Nam</a></li>
+                        <li><a href="#">Au My</a></li>
+                        <li><a href="#">Chau A</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Chu de</a>
+                    <ul class="item-menu">
+                        <li><a href="#">De xuat</a></li>
+                        <li><a href="#">The loai</a></li>
+                        <li><a href="#">Tam trang</a></li>
+                        <li><a href="#">Hoat dong</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Nghe si</a>
+                    <ul class="item-menu">
+                        <li><a href="#">Viet Nam</a></li>
+                        <li><a href="#">Au My</a></li>
+                        <li><a href="#">Han Quoc</a></li>
+                        <li><a href="#">Nhat Ban</a></li>
+                        <li><a href="#">Hoa Ngu</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="clear"></div>
     <div class="song-player">
         <div class="song-detail">
             <marquee behavior="scroll" direction="left">
@@ -273,6 +330,7 @@
             </audio>
         </div>
     </div>
+    <div class="clear"></div>
     <div class="list-song" id="list-song"></div>
     <script src="playmp3.js"></script>
 </body>

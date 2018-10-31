@@ -318,3 +318,4 @@ function playSong(link, name, singer) {
     document.getElementById('my-mp3').src = link;
     document.getElementById('current-play-title').innerHTML = 'current playing:' + name + " - " + singer;
 }
+
